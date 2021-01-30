@@ -1,6 +1,4 @@
-# hello-world
-ideas and mission
-My name is Daniel, 
-I want to code and develop system. 
-Here i will be sharing my new ideas.
-The sharing and file updates will be done from my Worksation
+Development
+In this repository, many of development practices and projects from 
+different technologies will be loaded, tracked and changed.
+It is for learning purposes
